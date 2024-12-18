@@ -23,16 +23,13 @@ In disaster scenarios such as earthquakes, floods, fires, and building collapses
   - matplotlib
 
 ## System Architecture
-<!-- Add your architecture diagram image to the repository and update the link below -->
-![System Architecture](https://github.com/<<yourusername>>/UAV-Human-Detection-System/assets/yourimagepath)
+
+![image](https://github.com/user-attachments/assets/0b2a130e-408a-483e-b0a7-602006f5da02)
 
 ## Output
 
-#### Output 1 - Aerial Image with Human Detection
-![image](https://github.com/user-attachments/assets/0b2a130e-408a-483e-b0a7-602006f5da02)
+### Aerial Image with Human Detection
 
-
-#### Output 2 - Detection Under Low Visibility
 ![image](https://github.com/user-attachments/assets/e6411cf7-e3f0-45aa-856d-4e86dd26be74)
 
 
